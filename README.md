@@ -135,3 +135,4 @@ cat results/sbom-nginx-alpine.json | jq '.artifacts[] | {name, version, type}'
 4. **DevSecOps 워크플로우 체험**
    - 자동화된 보안 스캔
    - 결과 비교 및 분석
+# container-security-lab
