@@ -1,0 +1,22 @@
+# 결과 파일들
+results/
+*.txt
+*.json
+
+# Docker 관련
+.docker/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Cosign 키 파일
+cosign.key
+cosign.pub
+*.key
+*.pub
